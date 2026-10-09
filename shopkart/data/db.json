@@ -1,5 +1,5 @@
 {
-  "nextProductId": 7,
+  "nextProductId": 15,
   "nextOrderId": 1001,
   "products": [
     {"id":1,"name":"Ceramic Pour-Over Set","price":42,"stock":15,"emoji":"☕","category":"Kitchen","description":"Hand-glazed dripper and carafe for a slow morning brew."},
@@ -7,7 +7,15 @@
     {"id":3,"name":"Walnut Desk Organizer","price":38,"stock":20,"emoji":"🗄️","category":"Office","description":"Three compartments for pens, cards and cables."},
     {"id":4,"name":"Brass Reading Lamp","price":89,"stock":5,"emoji":"💡","category":"Home","description":"Warm, dimmable light with a weighted base."},
     {"id":5,"name":"Canvas Weekender Bag","price":74,"stock":12,"emoji":"👜","category":"Travel","description":"Waxed canvas, leather handles, fits a long weekend."},
-    {"id":6,"name":"Herb Garden Kit","price":24,"stock":30,"emoji":"🌿","category":"Garden","description":"Basil, mint and thyme seeds with pots and soil."}
+    {"id":6,"name":"Herb Garden Kit","price":24,"stock":30,"emoji":"🌿","category":"Garden","description":"Basil, mint and thyme seeds with pots and soil."},
+    {"id":7,"name":"Insulated Travel Mug","price":28,"stock":18,"emoji":"🥤","category":"Kitchen","description":"Double-wall stainless steel keeps drinks hot or cold on the go."},
+    {"id":8,"name":"Cotton Bath Towel Set","price":46,"stock":14,"emoji":"🧺","category":"Home","description":"Two plush, absorbent cotton towels in a calm neutral shade."},
+    {"id":9,"name":"Minimalist Wall Clock","price":52,"stock":9,"emoji":"🕰️","category":"Home","description":"A quiet-sweep clock with a clean face and solid wood frame."},
+    {"id":10,"name":"Desk Plant Trio","price":32,"stock":16,"emoji":"🪴","category":"Office","description":"Three easy-care plants in compact ceramic pots for your workspace."},
+    {"id":11,"name":"Everyday Leather Wallet","price":48,"stock":11,"emoji":"👛","category":"Accessories","description":"A slim, responsibly made leather wallet with room for daily essentials."},
+    {"id":12,"name":"Wireless Charging Pad","price":35,"stock":22,"emoji":"🔋","category":"Tech","description":"A compact fast-charging pad with a soft-touch, non-slip finish."},
+    {"id":13,"name":"Weekend Picnic Blanket","price":58,"stock":7,"emoji":"🧺","category":"Travel","description":"A foldable, water-resistant blanket made for park and beach days."},
+    {"id":14,"name":"Citrus Hand Soap Duo","price":19,"stock":25,"emoji":"🧼","category":"Personal Care","description":"Two gentle, plant-based hand soaps with a fresh citrus scent."}
   ],
   "orders": []
 }
