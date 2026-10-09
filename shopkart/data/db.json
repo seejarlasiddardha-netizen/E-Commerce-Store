@@ -1,0 +1,13 @@
+{
+  "nextProductId": 7,
+  "nextOrderId": 1001,
+  "products": [
+    {"id":1,"name":"Ceramic Pour-Over Set","price":42,"stock":15,"emoji":"☕","category":"Kitchen","description":"Hand-glazed dripper and carafe for a slow morning brew."},
+    {"id":2,"name":"Linen Throw Blanket","price":65,"stock":8,"emoji":"🛋️","category":"Home","description":"Stonewashed linen, soft from the first night."},
+    {"id":3,"name":"Walnut Desk Organizer","price":38,"stock":20,"emoji":"🗄️","category":"Office","description":"Three compartments for pens, cards and cables."},
+    {"id":4,"name":"Brass Reading Lamp","price":89,"stock":5,"emoji":"💡","category":"Home","description":"Warm, dimmable light with a weighted base."},
+    {"id":5,"name":"Canvas Weekender Bag","price":74,"stock":12,"emoji":"👜","category":"Travel","description":"Waxed canvas, leather handles, fits a long weekend."},
+    {"id":6,"name":"Herb Garden Kit","price":24,"stock":30,"emoji":"🌿","category":"Garden","description":"Basil, mint and thyme seeds with pots and soil."}
+  ],
+  "orders": []
+}
